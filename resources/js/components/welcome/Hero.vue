@@ -7,7 +7,7 @@
 </script>
 
 <template>
-   <div class="relative bg-gradient-to-r from-purple-600 to-blue-600 h-screen text-black overflow-hidden">
+   <div class="relative bg-gradient-to-r from-purple-600 to-blue-600 h-screen text-white overflow-hidden">
   <div class="absolute inset-0">
     <img src="/images/corto-hero.jpeg" alt="Background Image" class="object-cover object-center w-full h-full" />
     <div class="absolute inset-0 bg-black opacity-50"></div>
